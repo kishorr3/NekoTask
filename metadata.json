@@ -1,0 +1,6 @@
+{
+  "name": "Todo List with Cat Companion",
+  "description": "A minimal, beautiful to-do list application featuring a reactive, interactive virtual cat companion that reacts to your task completion and feed status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
